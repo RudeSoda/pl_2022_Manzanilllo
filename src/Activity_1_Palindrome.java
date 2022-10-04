@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Palindrome {
+public class Activity_1_Palindrome {
 
         public static void main(String[] args) {
             Scanner sc = new Scanner(System.in);
